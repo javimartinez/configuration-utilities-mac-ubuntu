@@ -12,7 +12,6 @@ https://github.com/magicmonty/bash-git-prompt
 Se modifica el fichero ~/.gitconfig añadiendo los alias que deseemos de la siguiente forma: {alias = comando}
 ```bash
 [alias]
-    [alias]
     st = status
     d = diff
     m = checkout master
