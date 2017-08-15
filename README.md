@@ -22,3 +22,8 @@ Se modifica el fichero ~/.gitconfig añadiendo los alias que deseemos de la sigu
     pb = push -u origin HEAD
     cb = checkout -b
 ```
+
+#### Configure iterm2 Mac
+
+ https://carlosazaustre.es/configura-tu-mac-como-un-desarrollador-profesionalque-2/
+
