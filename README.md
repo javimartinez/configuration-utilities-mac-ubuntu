@@ -6,6 +6,7 @@ https://gist.github.com/kevin-smets/8568070
 
 https://github.com/magicmonty/bash-git-prompt
 
+https://github.com/jimeh/git-aware-prompt
 
 #### Alias en git 
 
